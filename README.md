@@ -1,5 +1,9 @@
 # Task-2-SuperStore-Dashboard
 ## Super Store Sales Dashboard Summary
+## Project Objective
+To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+## Dataset Used 
+ScreenShort : <a heref = ""> Dashboard </a>
 ## Overall Performance
 Total Sales: 341.01K
 
@@ -61,3 +65,6 @@ Michigan (MI)
 
 ## Filter in Focus
 The dashboard is currently filtered for the Central region.
+## Final Conclusion
+The store is performing strongly with high sales driven by the Consumer segment, Office Supplies, and Online payments. Standard shipping is most used, and Texas, California, and New York are top-performing states. Sales peak in early October. Focus on high-demand products and regions can further boost growth.
+
