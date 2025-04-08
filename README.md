@@ -2,8 +2,10 @@
 ## Super Store Sales Dashboard Summary
 ## Project Objective
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
-## Dataset Used 
-ScreenShort : <a heref = ""> Dashboard </a>
+## Dataset Used/Output
+ScreenShort : <a heref = "https://github.com/Comhek0369/Task-2-SuperStore-Dashboard/blob/main/DashBoard%20SS.png"> Dashboard </a>
+
+Dashboard Template :<a heref = "https://github.com/Comhek0369/Task-2-SuperStore-Dashboard/blob/main/DashBoard%20SS.png"> Dashboard Templete </a> 
 ## Overall Performance
 Total Sales: 341.01K
 
